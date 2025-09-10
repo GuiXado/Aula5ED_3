@@ -1,5 +1,5 @@
 # Aula5ED.3
-## Atividade 3
+## Atividade 3 (sala)
 
 3. Baseado na lógica do Exercício 2, criar uma aplicação Java, baseada na biblioteca de pilha de int, que faça:
    
