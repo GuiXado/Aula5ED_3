@@ -21,7 +21,8 @@ O método fatorial(int valor): long deve estar baseado nas operações da pilha 
 
 **Atividade anterior
 
-(ex.2 referêcia)
+(ex.2 referêcia) #### Atividade anterior
+
 2. Criar um teste de mesa que demonstre a utilização de uma pilha de inteiros para realizar a operação de cálculo de  fatorial de um dado número.
    
 Para o teste, deve se usar um número de 0 a 10.
