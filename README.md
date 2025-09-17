@@ -1,7 +1,7 @@
 # Aula5ED.3
 ## Atividade 3 (sala)
 
-3. Baseado na lógica do Exercício 2, criar uma aplicação Java, baseada na biblioteca de pilha de int, que faça:
+### 3. Baseado na lógica do Exercício 2, criar uma aplicação Java, baseada na biblioteca de pilha de int, que faça:
    
 1) Criar uma classe view (Principal.java) que, na main:
    
