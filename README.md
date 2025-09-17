@@ -7,7 +7,7 @@
    
 a. Peça ao usuário um valor inteiro de 0 a 10 (Caso o usuário digite um valor fora desses limites, pedir novamente, até que o valor atenda à solicitação);
 
-3) Criar uma classe controller chamada FatController, que tenha um método fatorial(int valor): int e faça:
+2) Criar uma classe controller chamada FatController, que tenha um método fatorial(int valor): int e faça:
 
 a. Inicialize uma pilha
 
@@ -15,14 +15,15 @@ b. Usando a pilha como suporte, calcule o fatorial do valor de entrada
 
 c. O método deve retornar esse valor
 
-4) O método main da classe Principal.java deve chamar o método fatorial(int valor): long e exibir em console o valor do fatorial.
-5) 
+3) O método main da classe Principal.java deve chamar o método fatorial(int valor): long e exibir em console o valor do fatorial.
+   
 O método fatorial(int valor): long deve estar baseado nas operações da pilha de inteiros (push(), pop(), size(), top(), isEmpty())
 
 **Atividade anterior
 
+(ex.2 referêcia)
 2. Criar um teste de mesa que demonstre a utilização de uma pilha de inteiros para realizar a operação de cálculo de  fatorial de um dado número.
-3. 
+   
 Para o teste, deve se usar um número de 0 a 10.
 
 Utilizando as operações possíveis em uma pilha, apresentar o teste de mesa que receba um número de entrada e, utilizando uma pilha vazia e operações, chegar no valor do fatorial do número de entrada.
